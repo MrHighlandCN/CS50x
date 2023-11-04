@@ -1,0 +1,2 @@
+I think their audio aura is Purple
+I think just relying on 3 factors of energy, valence and danceability is not enough to calculate the audio aura of 1 person because there are songs with high valence but will still carry negative energy. I suggest calculating based on a few added factors such as loudness and tempo to be able to assess one's musical aura more accurately
